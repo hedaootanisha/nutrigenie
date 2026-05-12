@@ -18,7 +18,29 @@ if (mealForm) {
             calories: document.getElementById("calories").value
 
         };
+const calories = parseInt(data.calories);
 
+const budget = parseInt(data.budget);
+
+// Calories validation
+if (calories < 1000 || calories > 5000) {
+
+    alert(
+        "Please enter calories between 1000 and 5000."
+    );
+
+    return;
+}
+
+// Budget validation
+if (budget < 50 || budget > 5000) {
+
+    alert(
+        "Please enter budget between ₹50 and ₹5000."
+    );
+
+    return;
+}
         try {
 
             // Send data to Flask backend
