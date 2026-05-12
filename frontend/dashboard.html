@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NutriGenie Dashboard</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container py-5">
+
+    <h1 class="text-center page-title mb-5">
+        🍱 Your AI Meal Plan
+    </h1>
+
+    <div class="feature-card">
+
+        <div id="mealResults"></div>
+
+    </div>
+
+</div>
+
+<script>
+
+const mealPlan = JSON.parse(
+    localStorage.getItem("mealPlan")
+);
+
+document.getElementById("mealResults").innerHTML = `
+
+    <h3>🥣 Breakfast: ${mealPlan.breakfast}</h3>
+
+    <h3>🍛 Lunch: ${mealPlan.lunch}</h3>
+
+    <h3>🍽️ Dinner: ${mealPlan.dinner}</h3>
+
+    <h3>🥜 Snacks: ${mealPlan.snacks}</h3>
+
+`;
+
+</script>
+
+</body>
+</html>

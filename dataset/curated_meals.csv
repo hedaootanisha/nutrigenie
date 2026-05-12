@@ -1,0 +1,54 @@
+meal_name,diet,meal_type,calories,protein,carbs,budget,goal
+Oats Banana Smoothie,Veg,Breakfast,350,12,45,60,Weight Loss
+Greek Yogurt Bowl,Veg,Breakfast,320,18,30,70,Weight Loss
+Fruit Salad,Veg,Breakfast,250,5,40,50,Weight Loss
+Peanut Butter Toast,Veg,Breakfast,400,14,35,80,Weight Gain
+Paneer Sandwich,Veg,Breakfast,450,20,40,90,Weight Gain
+Veg Poha,Veg,Breakfast,300,8,50,40,Maintenance
+Idli Sambar,Veg,Breakfast,350,10,45,50,Maintenance
+Upma,Veg,Breakfast,320,9,42,45,Maintenance
+Boiled Eggs,Non-Veg,Breakfast,300,25,2,60,Weight Loss
+Egg Sandwich,Non-Veg,Breakfast,420,22,35,80,Maintenance
+Chicken Omelette,Non-Veg,Breakfast,500,35,10,100,Weight Gain
+Protein Pancakes,Non-Veg,Breakfast,550,40,30,120,Weight Gain
+
+Dal Rice,Veg,Lunch,500,18,65,80,Weight Loss
+Veg Pulao,Veg,Lunch,550,15,70,90,Maintenance
+Rajma Chawal,Veg,Lunch,600,20,75,100,Maintenance
+Paneer Rice Bowl,Veg,Lunch,700,30,60,130,Weight Gain
+Mixed Veg Curry,Veg,Lunch,450,12,50,70,Weight Loss
+Chole Bhature,Veg,Lunch,750,18,90,120,Weight Gain
+Veg Fried Rice,Veg,Lunch,650,14,80,100,Maintenance
+Quinoa Salad,Veg,Lunch,400,16,35,110,Weight Loss
+Grilled Chicken Rice,Non-Veg,Lunch,700,40,55,150,Weight Gain
+Chicken Biryani,Non-Veg,Lunch,800,38,85,170,Weight Gain
+Fish Curry Rice,Non-Veg,Lunch,650,35,60,140,Maintenance
+Chicken Salad,Non-Veg,Lunch,500,42,20,130,Weight Loss
+Turkey Wrap,Non-Veg,Lunch,550,36,35,120,Maintenance
+Egg Fried Rice,Non-Veg,Lunch,620,28,70,110,Maintenance
+
+Paneer Wrap,Veg,Dinner,600,25,50,120,Weight Gain
+Vegetable Soup,Veg,Dinner,300,10,25,60,Weight Loss
+Roti Sabzi,Veg,Dinner,450,15,45,80,Maintenance
+Palak Paneer,Veg,Dinner,550,28,30,110,Weight Gain
+Mushroom Pasta,Veg,Dinner,650,20,75,130,Maintenance
+Tofu Stir Fry,Veg,Dinner,500,22,35,100,Weight Loss
+Veg Burger,Veg,Dinner,700,18,85,140,Weight Gain
+Chicken Wrap,Non-Veg,Dinner,650,38,45,140,Weight Gain
+Grilled Fish,Non-Veg,Dinner,450,40,10,160,Weight Loss
+Chicken Soup,Non-Veg,Dinner,350,30,15,90,Weight Loss
+Egg Curry Rice,Non-Veg,Dinner,600,26,55,110,Maintenance
+Chicken Steak,Non-Veg,Dinner,750,45,25,180,Weight Gain
+Prawn Noodles,Non-Veg,Dinner,680,35,70,150,Maintenance
+
+Roasted Chana,Veg,Snacks,180,9,20,30,Weight Loss
+Fox Nuts,Veg,Snacks,200,7,22,40,Weight Loss
+Protein Bar,Veg,Snacks,250,15,20,70,Maintenance
+Dry Fruits Mix,Veg,Snacks,300,10,18,90,Weight Gain
+Banana Shake,Veg,Snacks,350,12,45,60,Weight Gain
+Corn Chaat,Veg,Snacks,220,6,30,40,Maintenance
+Greek Yogurt,Veg,Snacks,180,14,12,50,Weight Loss
+Protein Shake,Non-Veg,Snacks,320,30,15,100,Weight Gain
+Chicken Nuggets,Non-Veg,Snacks,400,25,20,120,Weight Gain
+Boiled Egg Snack,Non-Veg,Snacks,220,18,5,50,Weight Loss
+Tuna Sandwich,Non-Veg,Snacks,350,28,30,90,Maintenance

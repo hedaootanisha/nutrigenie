@@ -1,0 +1,11 @@
+meal_name,meal_type,diet,goal,calories,price
+Oats Banana Smoothie,Breakfast,Veg,Weight Loss,300,50
+Paneer Sandwich,Dinner,Veg,Weight Gain,500,80
+Rice Dal Salad,Lunch,Veg,Maintenance,450,70
+Grilled Chicken,Lunch,Non-Veg,Weight Gain,700,150
+Egg Sandwich,Breakfast,Non-Veg,Maintenance,400,60
+Fruit Salad,Snacks,Veg,Weight Loss,200,40
+Chicken Wrap,Dinner,Non-Veg,Weight Gain,650,120
+Sprouts Chaat,Snacks,Veg,Weight Loss,250,30
+Protein Shake,Breakfast,Non-Veg,Weight Gain,550,90
+Veg Pulao,Lunch,Veg,Maintenance,500,60
